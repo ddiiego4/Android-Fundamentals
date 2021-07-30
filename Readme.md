@@ -1,7 +1,4 @@
 
-Hola esto es una prueba 
-
-
 NOMBRE DE LA INTEGRACION O DEL API
 
 DUENO FUNCIONAL DE LA SOLUCION
